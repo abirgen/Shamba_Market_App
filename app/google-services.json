@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463270178452",
+    "firebase_url": "https://umoja-sacco1.firebaseio.com",
+    "project_id": "umoja-sacco1",
+    "storage_bucket": "umoja-sacco1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463270178452:android:d1223eeae362afb5ee0e81",
+        "android_client_info": {
+          "package_name": "edmt.dev.androidgridlayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463270178452-ki4csoupmtn2mnfu28i3tr6qtk8fq0r1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edmt.dev.androidgridlayout",
+            "certificate_hash": "4a6ae8578fd8bdfc00906d81739ecd02ea47bc30"
+          }
+        },
+        {
+          "client_id": "463270178452-p6ceqicc3nmmbfcseho95rd7lj7g983f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrcSpnDPitSEuFhBm4ba-jetwKZye1Acw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463270178452-p6ceqicc3nmmbfcseho95rd7lj7g983f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
